@@ -59,7 +59,7 @@ I enjoy solving challenging problems, building full-stack web applications, and 
 
 ---
 
-### [Student Management System](https://github.com/misoooo/StudentManagement)  
+### [Student Management System](https://github.com/misoooo/StudentCRUDApp)  
 *Full-Stack CRUD app* — Node.js, Express.js, JavaScript.  
 - RESTful API with error handling  
 - Responsive UI & data filtering  
