@@ -7,11 +7,11 @@ appears on your GitHub profile.
 <h3 align="center">Aspiring Software Developer | B.Tech CSE | Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:mxxxxx@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-mxxxxx@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:mimansa0107@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-mimansa0107@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mimansa-tripathi-1942a3225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mimansa%20Tripathi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
