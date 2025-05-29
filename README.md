@@ -43,7 +43,7 @@ I enjoy solving challenging problems, building full-stack web applications, and 
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" /><br>GitHub</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" /><br>Postman</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /><br>VS Code</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" /><br>Tailwind CSS</td>
   </tr>
 </table>
 
@@ -67,8 +67,7 @@ I enjoy solving challenging problems, building full-stack web applications, and 
 
 ---
 
-## 🎯 Goals  
-- Master Data Structures & Algorithms for interviews  
+## 🎯 Goals    
 - Build and deploy production-level full-stack apps  
 - Grow as a confident and skilled software engineer
 
